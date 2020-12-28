@@ -1,0 +1,19 @@
+Diketahui sebuah segitiga memiliki ukuran sebagai berikut;
+Alas 25
+Tinggi 30
+
+Algoritma:
+
+- Step 1 Mendeklarasikan luas, alas, dan tinggi
+- Step 2 Masukan alas = 25, tinggi = 30
+- Step 3 Menghitung luas = ½*alas*tinggi
+- Step 4 Menampilkan luas
+
+Pseudocode:
+
+	#Menghitung Luas
+	luas, alas, tinggi
+	alas = 25
+	tinggi = 30
+	luas = ½*alas*tinggi
+	print(luas)
